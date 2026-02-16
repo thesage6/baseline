@@ -1,2 +1,4 @@
-github.com/thesage6/puppy v0.0.0-20260209084646-a89da5311249 h1:D+FHRtwxDtD3jgB/NOXJHvztdf7BVcKFWIe0HH8J7kU=
-github.com/thesage6/puppy v0.0.0-20260209084646-a89da5311249/go.mod h1:f5t8WZMA1gGDPo63jmCv0EHCri3yXggkjqJUEvv/9lo=
+github.com/thesage6/dog v0.0.1 h1:jLG8bzLh0Gym6ThYIjPSThjkLay4Da6Qg400x1OJkH4=
+github.com/thesage6/dog v0.0.1/go.mod h1:hI5lkAwmWjbf5p+BvCgy8QrHYdnS0REhCcoCjepm19Q=
+github.com/thesage6/puppy v0.0.2 h1:zaS5fxsyJJNgB876QI5BbXImWXVBps7XdqzHHu9in/I=
+github.com/thesage6/puppy v0.0.2/go.mod h1:iANhZIKMRFzAieM0imIthhQjvRYdxP37qGv5QVG2ubs=
